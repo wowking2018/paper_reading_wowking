@@ -15,7 +15,7 @@
 |  | 2020 | [Variational Learning of Euler–Lagrange Dynamics from Data](https://arxiv.org/abs/2112.12619) | 利用变分反向误差分析来提取广义坐标和拉格朗日量。 | ![citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F550db29f3020335931ff4292a8f2c15c9276859a%3Ffields%3DcitationCount) |
 | ✅ | 2021 | [Neural Symplectic Form Learning Hamiltonian Equations on General Coordinate Systems](https://openreview.net/forum?id=4h4oqp-ATxb) | 使用神经网络从数据中学习辛形式，从而提供了一种从一般坐标系表示的数据中学习哈密顿方程的方法。 | ![citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff6ff2f5a64a4a6c47d00db328cd712d497f44d56%3Ffields%3DcitationCount) |
 
-
+---
 
 #### Computer Vision - Transformer
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
@@ -24,7 +24,7 @@
 | ✅ | 2021 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030.pdf) | 多层次的Vision Transformer                   | ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc8b25fab5608c3e033d34b4483ec47e68ba109b7%3Ffields%3DcitationCount)|
 | ✅ | 2021 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377.pdf) | BERT的CV版             |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc1962a8cf364595ed2838a097e9aa7cd159d3118%3Ffields%3DcitationCount)| 
 
-
+---
 
 #### AI for new areas
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
