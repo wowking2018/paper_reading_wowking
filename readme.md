@@ -46,8 +46,17 @@
 | ✅ | 2013 | [Memristive devices for computing](https://www.nature.com/articles/nnano.2012.240) | 忆阻器用于计算存算一体，具有独特的运算优势。 |![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59f65b20279e6153f6caa83c07ada43fac643d34%3Ffields%3DcitationCount) |
 | ✅ | 2020 | [Resistive switching materials for information processing](https://www.nature.com/articles/s41578-019-0159-3) | 忆阻器的综述文章，类比于神经元结构，同时可以与神经网络相联系进行计算。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc1d7f95970169a827f75bdcc0eae310bd2b90a78%3Ffields%3DcitationCount) |
 | ✅ | 2020 | [The missing mem-inerter and extended mem-dashpot found](https://link.springer.com/article/10.1007/s11071-020-05837-7) | 忆阻器的机械对应物，具有记忆效应的惯性器。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F066b6a4269a5b90a32c895f2856ae312faf6ff1c%3Ffields%3DcitationCount) |
+| ✅ | 2022 | [Experimental photonic quantum memristor](https://www.nature.com/articles/s41566-022-00973-5) | 一种新颖的量子光学忆阻器。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8a8e0ea2bd0beaba8f2055db0a3d74916c803d74%3Ffields%3DcitationCount) |
 
+---
 
+#### Neuromorphic Computing
+| 已完成 | 年份 | 论文名 | 简介 | 引用 |
+| ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
+| ✅ | 2015 | [Associative Learning with Temporal Contiguity in a Memristive Circuit for Large-Scale Neuromorphic Networks](https://onlinelibrary.wiley.com/doi/10.1002/aelm.201500125) | 用忆阻器构成的简单电路实现了巴普洛夫的狗实验。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0bd6b629638caf49d7fc2f5cdbf6837053fce466%3Ffields%3DcitationCount) |
+| ✅ | 2015 | [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](https://www.nature.com/articles/nature14441) | 物理实现了用crossbar阵列结构对应MLP，实现了mnist数据集识别，开创性的成果。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb138688d04eac3153bc4112babecc0106059c220%3Ffields%3DcitationCount) |
+| ✅ | 2020 | [Three-dimensional memristor circuits as complex neural networks](https://www.nature.com/articles/s41928-020-0397-9) | 三维神经形态电路，能够从物理层面实现 CNN 的功能。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5197605f787014a38f9f831a110646abbbaa5af%3Ffields%3DcitationCount) |
+| ✅ | 2021 | [Scalable massively parallel computing using continuous-time data representation in nanoscale crossbar array](https://www.nature.com/articles/s41565-021-00943-y) | 通过双crossbar结构进行信息的调制和输送。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa079cd29662d2cb0f6a56b97ab6fd75c040eb67c%3Ffields%3DcitationCount) |
 
 ### 后记
 [李沐](https://github.com/mli/paper-reading)的视频给了我这个灵感去记录自己的文献阅读过程，这个仓库的readme文件的排版参考了他的相应[仓库](https://github.com/mli/paper-reading)。以下几点是我个人认为比较重要的:
