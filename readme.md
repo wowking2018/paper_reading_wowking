@@ -33,7 +33,8 @@
 |  | 2021 | [Codex](https://arxiv.org/pdf/2107.03374.pdf) | 使用注释生成代码       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Facbdbf49f9bc3f151b93d9ca9a06009f4f6eb269%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Evaluating-Large-Language-Models-Trained-on-Code-Chen-Tworek/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)  |
 | ✅ | 2021 | [Advancing mathematics by guiding human intuition with AI](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理         |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff672b8fb430606fee0bb368f16603531ce1e90c4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)  |
 | ✅ | 2022 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | 媲美一般程序员的编程解题水平       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5cbe278b65a81602a864184bbca37de91448a5f5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competition-Level-Code-Generation-with-AlphaCode-Li-Choi/5cbe278b65a81602a864184bbca37de91448a5f5)  |
- 
+| ✅ | 2022 | [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6) | 一种新视角下，举例声学，电学和光学也可以被当作是神经网络结构的例子。 |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd6141de4484121e6383caaeb7243db063685a0fb%3Ffields%3DcitationCount)  |
+
 ---
 
 #### Memristor
