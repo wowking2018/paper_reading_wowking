@@ -59,6 +59,22 @@
 | ✅ | 2020 | [Three-dimensional memristor circuits as complex neural networks](https://www.nature.com/articles/s41928-020-0397-9) | 三维神经形态电路，能够从物理层面实现 CNN 的功能。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5197605f787014a38f9f831a110646abbbaa5af%3Ffields%3DcitationCount) |
 | ✅ | 2021 | [Scalable massively parallel computing using continuous-time data representation in nanoscale crossbar array](https://www.nature.com/articles/s41565-021-00943-y) | 通过双crossbar结构进行信息的调制和输送。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa079cd29662d2cb0f6a56b97ab6fd75c040eb67c%3Ffields%3DcitationCount) |
 
+---
+
+#### Others
+| 已完成 | 年份 | 论文名 | 简介 | 引用 |
+| ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
+| ✅ | 2023 | [Mixed-modality speech recognition and interaction using a wearable artificial throat](https://www.nature.com/articles/s42256-023-00616-6) | 一种利用可穿戴人工喉的混合模态语音识别和交互系统，“让失语者再次发声”。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F17e36b687221d263d78bdb827e232f775801e9fd%3Ffields%3DcitationCount) |
+
+
+
+
+
+
+
+
+
+
 ### 后记
 [李沐](https://github.com/mli/paper-reading)的视频给了我这个灵感去记录自己的文献阅读过程，这个仓库的readme文件的排版参考了他的相应[仓库](https://github.com/mli/paper-reading)。以下几点是我个人认为比较重要的:
 
