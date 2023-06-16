@@ -74,11 +74,6 @@
 | ✅ | 2023 | [Mixed-modality speech recognition and interaction using a wearable artificial throat](https://www.nature.com/articles/s42256-023-00616-6) | 一种利用可穿戴人工喉的混合模态语音识别和交互系统，“让失语者再次发声”。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F17e36b687221d263d78bdb827e232f775801e9fd%3Ffields%3DcitationCount) |
 
 
- 
-
-
-
-
 
 ### 后记
 [李沐](https://github.com/mli/paper-reading)的视频给了我这个灵感去记录自己的文献阅读过程，这个仓库的readme文件的排版参考了他的相应[仓库](https://github.com/mli/paper-reading)。以下几点是我个人认为比较重要的:
