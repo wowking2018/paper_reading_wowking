@@ -65,6 +65,8 @@
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
 | ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
 | ✅ | 1976 | [Simple mathematical models with very  complicated dynamics](https://www.nature.com/articles/261459a0/) | 混沌动力学的开山之作。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb11c97820195fba5d4867b986b0858ed593b43aa%3Ffields%3DcitationCount) |
+| ✅ | 2011 | [Can apparent superluminal neutrino speeds be explained as a quantum weak measurement?](https://arxiv.org/abs/1110.2832) | Answer the question, probably not. | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe1b6860906dcca52cfac270cf87ca8a32c97b2f3%3Ffields%3DcitationCount) |
+
 
 ---
 
