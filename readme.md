@@ -22,6 +22,7 @@
 | ✅ | 2020 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929.pdf) | Transformer杀入CV界                   |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b15fa1b8d413fbe14ef7a97f651f47f5aff3903%3Ffields%3DcitationCount)|
 | ✅ | 2021 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030.pdf) | 多层次的Vision Transformer                   | ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc8b25fab5608c3e033d34b4483ec47e68ba109b7%3Ffields%3DcitationCount)|
 | ✅ | 2021 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377.pdf) | BERT的CV版             |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc1962a8cf364595ed2838a097e9aa7cd159d3118%3Ffields%3DcitationCount)| 
+| ✅ | 2022 | [Automated discovery of fundamental variables hidden in experimental data](https://www.nature.com/articles/s43588-022-00281-6) | 图像中抽取可观测系统的状态变量。 |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff51873e0fe8affb3e33af0c8a2ca9594a3b393a1%3Ffields%3DcitationCount)| 
 
 ---
 
@@ -33,7 +34,7 @@
 |  | 2021 | [Codex](https://arxiv.org/pdf/2107.03374.pdf) | 使用注释生成代码       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Facbdbf49f9bc3f151b93d9ca9a06009f4f6eb269%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Evaluating-Large-Language-Models-Trained-on-Code-Chen-Tworek/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)  |
 | ✅ | 2021 | [Advancing mathematics by guiding human intuition with AI](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理         |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff672b8fb430606fee0bb368f16603531ce1e90c4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)  |
 | ✅ | 2022 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | 媲美一般程序员的编程解题水平       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5cbe278b65a81602a864184bbca37de91448a5f5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competition-Level-Code-Generation-with-AlphaCode-Li-Choi/5cbe278b65a81602a864184bbca37de91448a5f5)  |
-| ✅ | 2022 | [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6) | 一种新视角下，举例声学，电学和光学也可以被当作是神经网络结构的例子。 |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd6141de4484121e6383caaeb7243db063685a0fb%3Ffields%3DcitationCount)  |
+| ✅ | 2022 | [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6) | 一种新视角下，举例声学，电学和光学系统也可以被当作是神经网络结构的例子。 |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd6141de4484121e6383caaeb7243db063685a0fb%3Ffields%3DcitationCount)  |
 
 ---
 
@@ -73,6 +74,7 @@
 #### Others
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
 | ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
+| ✅ | 2005 | [An index to quantify an individual’s scientific  research output](https://www.pnas.org/doi/full/10.1073/pnas.0507655102) | 提出H-index的论文，Hirsch却认为不能只用其来评价科研工作者。 | |
 | ✅ | 2023 | [Mixed-modality speech recognition and interaction using a wearable artificial throat](https://www.nature.com/articles/s42256-023-00616-6) | 一种利用可穿戴人工喉的混合模态语音识别和交互系统，“让失语者再次发声”。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F17e36b687221d263d78bdb827e232f775801e9fd%3Ffields%3DcitationCount) |
 
 
