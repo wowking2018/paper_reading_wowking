@@ -68,13 +68,13 @@
 | ✅ | 1976 | [Simple mathematical models with very  complicated dynamics](https://www.nature.com/articles/261459a0/) | 混沌动力学的开山之作。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb11c97820195fba5d4867b986b0858ed593b43aa%3Ffields%3DcitationCount) |
 | ✅ | 2011 | [Can apparent superluminal neutrino speeds be explained as a quantum weak measurement?](https://arxiv.org/abs/1110.2832) | Answer the question, probably not. | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe1b6860906dcca52cfac270cf87ca8a32c97b2f3%3Ffields%3DcitationCount) |
 
-
 ---
 
 #### Others
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
 | ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
 | ✅ | 2005 | [An index to quantify an individual’s scientific  research output](https://www.pnas.org/doi/full/10.1073/pnas.0507655102) | 提出H-index的论文，Hirsch却认为不能只用其来评价科研工作者。 | |
+| ✅ | 2021 | [Scalable optical learning operator](https://www.nature.com/articles/s43588-021-00112-0) | 一种光学计算框架 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd3de6e9b42d1e3062d50704bdfceb3b206b93a0%3Ffields%3DcitationCount) |
 | ✅ | 2023 | [Mixed-modality speech recognition and interaction using a wearable artificial throat](https://www.nature.com/articles/s42256-023-00616-6) | 一种利用可穿戴人工喉的混合模态语音识别和交互系统，“让失语者再次发声”。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F17e36b687221d263d78bdb827e232f775801e9fd%3Ffields%3DcitationCount) |
 
 
@@ -82,6 +82,6 @@
 ### 后记
 [李沐](https://github.com/mli/paper-reading)的视频给了我这个灵感去记录自己的文献阅读过程，这个仓库的readme文件的排版参考了他的相应[仓库](https://github.com/mli/paper-reading)。以下几点是我个人认为比较重要的:
 
-> 1.给每篇论文一个文件夹。内含一篇markdown笔记、论文PDF、任意链接资料。使用目录结构来整理论文。
+> 1.使用目录结构来整理论文。内含一篇markdown笔记、任意链接资料。
 > 2.笔记内容应包括:题目、作者、摘要概述、亮点思维、问题疑问、要点总结等，写作、链接、粗体等格式着重体现。
 > 3.创建TODO列表,标记想要阅读的论文以及记录心得，citation使用了[shields](https://shields.io/)。
