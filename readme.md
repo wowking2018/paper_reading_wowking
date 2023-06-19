@@ -73,8 +73,8 @@
 #### Others
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
 | ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
-| ✅ | 2005 | [An index to quantify an individual’s scientific  research output](https://www.pnas.org/doi/full/10.1073/pnas.0507655102) | 提出H-index的论文，Hirsch却认为不能只用其来评价科研工作者。 | |
-| ✅ | 2021 | [Scalable optical learning operator](https://www.nature.com/articles/s43588-021-00112-0) | 一种光学计算框架 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd3de6e9b42d1e3062d50704bdfceb3b206b93a0%3Ffields%3DcitationCount) |
+| ✅ | 2005 | [An index to quantify an individual’s scientific  research output](https://www.pnas.org/doi/full/10.1073/pnas.0507655102) | 提出 H-index 的论文，Hirsch却认为不能只用其来评价科研工作者。 | |
+| ✅ | 2021 | [Scalable optical learning operator](https://www.nature.com/articles/s43588-021-00112-0) | 一种光学计算框架。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd3de6e9b42d1e3062d50704bdfceb3b206b93a0%3Ffields%3DcitationCount) |
 | ✅ | 2023 | [Mixed-modality speech recognition and interaction using a wearable artificial throat](https://www.nature.com/articles/s42256-023-00616-6) | 一种利用可穿戴人工喉的混合模态语音识别和交互系统，“让失语者再次发声”。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F17e36b687221d263d78bdb827e232f775801e9fd%3Ffields%3DcitationCount) |
 
 
