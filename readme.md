@@ -33,8 +33,16 @@
 |   | 2021 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) | 原子级别精度的蛋白质3D结构预测       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdc32a984b651256a8ec282be52310e6bd33d9815%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Highly-accurate-protein-structure-prediction-with-Jumper-Evans/dc32a984b651256a8ec282be52310e6bd33d9815)  |
 |  | 2021 | [Codex](https://arxiv.org/pdf/2107.03374.pdf) | 使用注释生成代码       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Facbdbf49f9bc3f151b93d9ca9a06009f4f6eb269%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Evaluating-Large-Language-Models-Trained-on-Code-Chen-Tworek/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)  |
 | ✅ | 2021 | [Advancing mathematics by guiding human intuition with AI](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理         |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff672b8fb430606fee0bb368f16603531ce1e90c4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)  |
-| ✅ | 2022 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | 媲美一般程序员的编程解题水平       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5cbe278b65a81602a864184bbca37de91448a5f5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competition-Level-Code-Generation-with-AlphaCode-Li-Choi/5cbe278b65a81602a864184bbca37de91448a5f5)  |
+| ✅ | 2022 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | 媲美一般程序员的编程解题水平。       |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5cbe278b65a81602a864184bbca37de91448a5f5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competition-Level-Code-Generation-with-AlphaCode-Li-Choi/5cbe278b65a81602a864184bbca37de91448a5f5)  |
 | ✅ | 2022 | [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6) | 一种新视角下，举例声学，电学和光学系统也可以被当作是神经网络结构的例子。 |![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd6141de4484121e6383caaeb7243db063685a0fb%3Ffields%3DcitationCount)  |
+
+---
+
+#### AI painting-Stable diffusion
+| 已完成 | 年份 | 论文名 | 简介 | 引用 |
+| ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
+| ✅ | 2020 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 从热平衡引出的概率模型，stable diffusion的开端。 |![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F289db3be7bf77e06e75541ba93269de3d604ac72%3Ffields%3DcitationCount) |
+| ✅ | 2021 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | Lora模型，看似简单的原理却在工程上非常实用。 |![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa8ca46b171467ceb2d7652fbfb67fe701ad86092%3Ffields%3DcitationCount) |
 
 ---
 
@@ -59,7 +67,7 @@
 | ✅ | 2015 | [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](https://www.nature.com/articles/nature14441) | 物理实现了用crossbar阵列结构对应MLP，实现了mnist数据集识别，开创性的成果。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb138688d04eac3153bc4112babecc0106059c220%3Ffields%3DcitationCount) |
 | ✅ | 2020 | [Three-dimensional memristor circuits as complex neural networks](https://www.nature.com/articles/s41928-020-0397-9) | 三维神经形态电路，能够从物理层面实现 CNN 的功能。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5197605f787014a38f9f831a110646abbbaa5af%3Ffields%3DcitationCount) |
 | ✅ | 2021 | [Scalable massively parallel computing using continuous-time data representation in nanoscale crossbar array](https://www.nature.com/articles/s41565-021-00943-y) | 通过双crossbar结构进行信息的调制和输送。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa079cd29662d2cb0f6a56b97ab6fd75c040eb67c%3Ffields%3DcitationCount) |
-
+|  | 2023 | [Uncertainty quantification via a memristor Bayesian deep neural network for risk-sensitive reinforcement learning](https://www.nature.com/articles/s42256-023-00680-y) | 基于忆阻器的贝叶斯神经网络。 |  |
 ---
 
 #### Classical physical papers
