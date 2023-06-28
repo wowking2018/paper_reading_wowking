@@ -67,7 +67,7 @@
 | ✅ | 2015 | [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](https://www.nature.com/articles/nature14441) | 物理实现了用crossbar阵列结构对应MLP，实现了mnist数据集识别，开创性的成果。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb138688d04eac3153bc4112babecc0106059c220%3Ffields%3DcitationCount) |
 | ✅ | 2020 | [Three-dimensional memristor circuits as complex neural networks](https://www.nature.com/articles/s41928-020-0397-9) | 三维神经形态电路，能够从物理层面实现 CNN 的功能。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5197605f787014a38f9f831a110646abbbaa5af%3Ffields%3DcitationCount) |
 | ✅ | 2021 | [Scalable massively parallel computing using continuous-time data representation in nanoscale crossbar array](https://www.nature.com/articles/s41565-021-00943-y) | 通过双crossbar结构进行信息的调制和输送。 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa079cd29662d2cb0f6a56b97ab6fd75c040eb67c%3Ffields%3DcitationCount) |
-|  | 2023 | [Uncertainty quantification via a memristor Bayesian deep neural network for risk-sensitive reinforcement learning](https://www.nature.com/articles/s42256-023-00680-y) | 基于忆阻器的贝叶斯神经网络。 |  |
+| ✅ | 2023 | [Uncertainty quantification via a memristor Bayesian deep neural network for risk-sensitive reinforcement learning](https://www.nature.com/articles/s42256-023-00680-y) | 基于忆阻器的贝叶斯神经网络。 |  |
 ---
 
 #### Classical physical papers
