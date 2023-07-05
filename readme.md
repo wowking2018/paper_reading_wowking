@@ -13,6 +13,7 @@
 |  | 2020 | [Unsupervised learning of lagrangian dynamics from images for prediction and control](https://dl.acm.org/doi/10.5555/3495724.3496625) | 从图像中学习拉格朗日动力学，并且利用可解释性来提高预测和控制的效果.  | ![citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F45dde4ce5dc531ded482d1fa6048445141a41905%3Ffields%3DcitationCount) |
 |  | 2020 | [Variational Learning of Euler–Lagrange Dynamics from Data](https://arxiv.org/abs/2112.12619) | 利用变分反向误差分析来提取广义坐标和拉格朗日量.  | ![citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F550db29f3020335931ff4292a8f2c15c9276859a%3Ffields%3DcitationCount) |
 | ✅ | 2021 | [Neural Symplectic Form Learning Hamiltonian Equations on General Coordinate Systems](https://openreview.net/forum?id=4h4oqp-ATxb) | 使用神经网络从数据中学习辛形式，从而提供了一种从一般坐标系表示的数据中学习哈密顿方程的方法.  | ![citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff6ff2f5a64a4a6c47d00db328cd712d497f44d56%3Ffields%3DcitationCount) |
+| ✅ | 2022 | [Automated discovery of fundamental variables hidden in experimental data](https://doi.org/10.1038/s43588-022-00281-6) | 从CV角度出发复杂系统中抽象出状态变量. | ![citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff51873e0fe8affb3e33af0c8a2ca9594a3b393a1%3Ffields%3DcitationCount) |
 
 ---
 
@@ -45,10 +46,13 @@
 | ✅ | 2021 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | Lora模型，看似简单的原理却在工程上非常实用.  |![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa8ca46b171467ceb2d7652fbfb67fe701ad86092%3Ffields%3DcitationCount) |
 
 ---
+
 #### Electronic Science and Technology
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
 | ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
 | ✅ | 2012 | [Dark Silicon and the End of Multicore Scaling](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6175879) | 电子科学中经典的暗硅效应(Dark Silicon). |![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9ae04be7cd5430355ee380b283475e031b8dff4f%3Ffields%3DcitationCount) |
+
+---
 
 #### Memristor
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
@@ -77,6 +81,7 @@
 #### Classical physical papers
 | 已完成 | 年份 | 论文名 | 简介 | 引用 |
 | ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
+| ✅ | 1975 | [Two-, Three-, and Four-Atom Exchange Effects in bcc $^{3}\rm{He}$](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.35.1442) | Willard, let the cat out of the bag. (ಠ_ರೃ) | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F96a93c74e860effb696670df71e38854c7e2e020%3Ffields%3DcitationCount) |
 | ✅ | 1976 | [Simple mathematical models with very  complicated dynamics](https://www.nature.com/articles/261459a0/) | 混沌动力学的开山之作.  | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb11c97820195fba5d4867b986b0858ed593b43aa%3Ffields%3DcitationCount) |
 | ✅ | 1993 | [Modeling and numerical simulations of dendritic crystal growth](https://doi.org/10.1016/0167-2789%2893%2990120-P) | 非常有意思的一篇文章，用有限差分相场法模拟枝晶生长 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd29fd4060778e12c48bd19ff2b41add40780542d%3Ffields%3DcitationCount) |
 | ✅ | 2011 | [Can apparent superluminal neutrino speeds be explained as a quantum weak measurement?](https://arxiv.org/abs/1110.2832) | Answer the question, probably not. | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe1b6860906dcca52cfac270cf87ca8a32c97b2f3%3Ffields%3DcitationCount) |
