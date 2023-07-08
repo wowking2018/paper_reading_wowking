@@ -83,9 +83,17 @@
 | ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
 | ✅ | 1975 | [Two-, Three-, and Four-Atom Exchange Effects in bcc $^{3}\rm{He}$](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.35.1442) | Willard, let the cat out of the bag. (ಠ_ರೃ) | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F96a93c74e860effb696670df71e38854c7e2e020%3Ffields%3DcitationCount) |
 | ✅ | 1976 | [Simple mathematical models with very  complicated dynamics](https://www.nature.com/articles/261459a0/) | 混沌动力学的开山之作.  | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb11c97820195fba5d4867b986b0858ed593b43aa%3Ffields%3DcitationCount) |
+| ✅ | 1976 | [Energy levels and wave functions of Bloch electrons in rational and irrational magnetic fields](https://doi.org/10.1103/PHYSREVB.14.2239) | Everything you want to know about Hofstadter butterfly. | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7e7980495858d8110acc08e6fece1650b443dc20%3Ffields%3DcitationCount) |
 | ✅ | 1993 | [Modeling and numerical simulations of dendritic crystal growth](https://doi.org/10.1016/0167-2789%2893%2990120-P) | 非常有意思的一篇文章，用有限差分相场法模拟枝晶生长 | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd29fd4060778e12c48bd19ff2b41add40780542d%3Ffields%3DcitationCount) |
 | ✅ | 2011 | [Can apparent superluminal neutrino speeds be explained as a quantum weak measurement?](https://arxiv.org/abs/1110.2832) | Answer the question, probably not. | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe1b6860906dcca52cfac270cf87ca8a32c97b2f3%3Ffields%3DcitationCount) |
 | ✅ | 2014 | [Nature’s optics and our understanding of light](https://arxiv.org/abs/1110.2832) | 解释了天空中彩虹的成因. | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd4b427df3052bfe2973a4aac3702af164a015050%3Ffields%3DcitationCount) |
+
+---
+
+#### Classical mathematics papers
+| 已完成 | 年份 | 论文名 | 简介 | 引用 |
+| ----- | ----- | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
+| ✅ | 1984 | [Terence Tao](https://doi.org/10.1007/BF00312075) | A biographical account of Terence Tao's mathematical development with educational implications. | ![citation](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F98e9d37845dfa29a45176f0bd1010bd7c65da77a%3Ffields%3DcitationCount) |
 
 ---
 
